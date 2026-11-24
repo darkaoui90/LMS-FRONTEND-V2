@@ -1,10 +1,10 @@
-# EduLearn LMS Frontend - Sprint 3
+# LMS-FRONTEND-V2
 
 This is a small React learning project. It uses JavaScript, JSX, CSS, `useState`, and native `fetch`. API calls happen after a form submit or button click; there is no `useEffect`, router, or state library.
 
 ## Start the project
 
-1. Start MongoDB and the existing LMS backend. Locally, MongoDB is mapped to port 27018 and the backend uses port 3000.
+1. Start MongoDB and the existing LMS backend. The local MongoDB instance uses port 27017 and the backend uses port 3000.
 2. In `LMS-Frontend`, run `npm install`.
 3. Run `npm run dev -- --port 5173 --strictPort`.
 4. Open `http://localhost:5173`.
